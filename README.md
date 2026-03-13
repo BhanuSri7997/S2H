@@ -6,5 +6,14 @@ Technical practice repository with implementations of various programming proble
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhanuSri7997/S2H/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
