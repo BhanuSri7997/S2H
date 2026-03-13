@@ -7,6 +7,7 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/BhanuSri7997/S2H/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhanuSri7997/S2H/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -16,4 +17,5 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/BhanuSri7997/S2H/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
