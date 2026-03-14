@@ -6,6 +6,7 @@ Technical practice repository with implementations of various programming proble
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BhanuSri7997/S2H/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
@@ -30,9 +31,11 @@ Technical practice repository with implementations of various programming proble
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
