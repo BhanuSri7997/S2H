@@ -8,6 +8,7 @@ Technical practice repository with implementations of various programming proble
 | ------- |
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BhanuSri7997/S2H/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhanuSri7997/S2H/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -26,4 +27,12 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/BhanuSri7997/S2H/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
