@@ -18,4 +18,12 @@ Technical practice repository with implementations of various programming proble
 | ------- |
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BhanuSri7997/S2H/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/BhanuSri7997/S2H/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Backtracking
+|  |
+| ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/BhanuSri7997/S2H/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
