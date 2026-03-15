@@ -15,6 +15,7 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
+| [1622-fancy-sequence](https://github.com/BhanuSri7997/S2H/tree/master/1622-fancy-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,12 @@ Technical practice repository with implementations of various programming proble
 | ------- |
 | [0054-spiral-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/BhanuSri7997/S2H/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/BhanuSri7997/S2H/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
