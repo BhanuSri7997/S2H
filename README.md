@@ -10,6 +10,7 @@ Technical practice repository with implementations of various programming proble
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BhanuSri7997/S2H/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhanuSri7997/S2H/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -34,6 +35,7 @@ Technical practice repository with implementations of various programming proble
 | ------- |
 | [0054-spiral-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Simulation
 |  |
 | ------- |
@@ -47,4 +49,12 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/BhanuSri7997/S2H/tree/master/1622-fancy-sequence) |
+## Greedy
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
+## Sorting
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
 <!---LeetCode Topics End-->
