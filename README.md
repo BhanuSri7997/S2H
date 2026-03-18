@@ -63,4 +63,8 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/BhanuSri7997/S2H/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/BhanuSri7997/S2H/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
