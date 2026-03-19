@@ -69,5 +69,6 @@ Technical practice repository with implementations of various programming proble
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/BhanuSri7997/S2H/tree/master/0577-employee-bonus) |
 | [1661-average-time-of-process-per-machine](https://github.com/BhanuSri7997/S2H/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
