@@ -14,6 +14,7 @@ Technical practice repository with implementations of various programming proble
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhanuSri7997/S2H/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/BhanuSri7997/S2H/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/BhanuSri7997/S2H/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BhanuSri7997/S2H/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Technical practice repository with implementations of various programming proble
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/BhanuSri7997/S2H/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/BhanuSri7997/S2H/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BhanuSri7997/S2H/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BhanuSri7997/S2H/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Prefix Sum
 |  |
 | ------- |
