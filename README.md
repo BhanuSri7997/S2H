@@ -14,6 +14,7 @@ Technical practice repository with implementations of various programming proble
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhanuSri7997/S2H/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BhanuSri7997/S2H/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/BhanuSri7997/S2H/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/BhanuSri7997/S2H/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/BhanuSri7997/S2H/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BhanuSri7997/S2H/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -45,6 +46,7 @@ Technical practice repository with implementations of various programming proble
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/BhanuSri7997/S2H/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BhanuSri7997/S2H/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/BhanuSri7997/S2H/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/BhanuSri7997/S2H/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/BhanuSri7997/S2H/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BhanuSri7997/S2H/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -74,6 +76,7 @@ Technical practice repository with implementations of various programming proble
 ## Prefix Sum
 |  |
 | ------- |
+| [2906-construct-product-matrix](https://github.com/BhanuSri7997/S2H/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/BhanuSri7997/S2H/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/BhanuSri7997/S2H/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Database
