@@ -42,6 +42,7 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/BhanuSri7997/S2H/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/BhanuSri7997/S2H/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/BhanuSri7997/S2H/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/BhanuSri7997/S2H/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/BhanuSri7997/S2H/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -73,6 +74,7 @@ Technical practice repository with implementations of various programming proble
 | ------- |
 | [0054-spiral-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/BhanuSri7997/S2H/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/BhanuSri7997/S2H/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/BhanuSri7997/S2H/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Design
