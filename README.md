@@ -78,6 +78,7 @@ Technical practice repository with implementations of various programming proble
 | [0657-robot-return-to-origin](https://github.com/BhanuSri7997/S2H/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/BhanuSri7997/S2H/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/BhanuSri7997/S2H/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/BhanuSri7997/S2H/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/BhanuSri7997/S2H/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/BhanuSri7997/S2H/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -85,6 +86,7 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/BhanuSri7997/S2H/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/BhanuSri7997/S2H/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
 |  |
 | ------- |
