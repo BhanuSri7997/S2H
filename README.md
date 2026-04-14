@@ -15,6 +15,7 @@ Technical practice repository with implementations of various programming proble
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhanuSri7997/S2H/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BhanuSri7997/S2H/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2463-minimum-total-distance-traveled](https://github.com/BhanuSri7997/S2H/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/BhanuSri7997/S2H/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/BhanuSri7997/S2H/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/BhanuSri7997/S2H/tree/master/2906-construct-product-matrix) |
@@ -107,6 +108,7 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2463-minimum-total-distance-traveled](https://github.com/BhanuSri7997/S2H/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/BhanuSri7997/S2H/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/BhanuSri7997/S2H/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BhanuSri7997/S2H/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -129,6 +131,7 @@ Technical practice repository with implementations of various programming proble
 | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/BhanuSri7997/S2H/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/BhanuSri7997/S2H/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/BhanuSri7997/S2H/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/BhanuSri7997/S2H/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/BhanuSri7997/S2H/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/BhanuSri7997/S2H/tree/master/3661-maximum-walls-destroyed-by-robots) |
