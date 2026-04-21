@@ -12,6 +12,7 @@ Technical practice repository with implementations of various programming proble
 | [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/BhanuSri7997/S2H/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/BhanuSri7997/S2H/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/BhanuSri7997/S2H/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhanuSri7997/S2H/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/BhanuSri7997/S2H/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -163,6 +164,7 @@ Technical practice repository with implementations of various programming proble
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/BhanuSri7997/S2H/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/BhanuSri7997/S2H/tree/master/2573-find-the-string-with-lcp) |
 ## String Matching
 |  |
@@ -183,4 +185,8 @@ Technical practice repository with implementations of various programming proble
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/BhanuSri7997/S2H/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/BhanuSri7997/S2H/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/BhanuSri7997/S2H/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
