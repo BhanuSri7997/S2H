@@ -18,6 +18,7 @@ Technical practice repository with implementations of various programming proble
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/BhanuSri7997/S2H/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BhanuSri7997/S2H/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/BhanuSri7997/S2H/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/BhanuSri7997/S2H/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/BhanuSri7997/S2H/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/BhanuSri7997/S2H/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/BhanuSri7997/S2H/tree/master/2573-find-the-string-with-lcp) |
@@ -60,6 +61,7 @@ Technical practice repository with implementations of various programming proble
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/BhanuSri7997/S2H/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/BhanuSri7997/S2H/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/BhanuSri7997/S2H/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/BhanuSri7997/S2H/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/BhanuSri7997/S2H/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/BhanuSri7997/S2H/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/BhanuSri7997/S2H/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -189,4 +191,8 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/BhanuSri7997/S2H/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/BhanuSri7997/S2H/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
