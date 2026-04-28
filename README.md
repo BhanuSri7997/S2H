@@ -19,6 +19,7 @@ Technical practice repository with implementations of various programming proble
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhanuSri7997/S2H/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/BhanuSri7997/S2H/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BhanuSri7997/S2H/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BhanuSri7997/S2H/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/BhanuSri7997/S2H/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/BhanuSri7997/S2H/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/BhanuSri7997/S2H/tree/master/2463-minimum-total-distance-traveled) |
@@ -47,6 +48,7 @@ Technical practice repository with implementations of various programming proble
 | ------- |
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
 | [1622-fancy-sequence](https://github.com/BhanuSri7997/S2H/tree/master/1622-fancy-sequence) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BhanuSri7997/S2H/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/BhanuSri7997/S2H/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/BhanuSri7997/S2H/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/BhanuSri7997/S2H/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -86,6 +88,7 @@ Technical practice repository with implementations of various programming proble
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/BhanuSri7997/S2H/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BhanuSri7997/S2H/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BhanuSri7997/S2H/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/BhanuSri7997/S2H/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/BhanuSri7997/S2H/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/BhanuSri7997/S2H/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -128,6 +131,7 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BhanuSri7997/S2H/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/BhanuSri7997/S2H/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/BhanuSri7997/S2H/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/BhanuSri7997/S2H/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
