@@ -9,6 +9,7 @@ Technical practice repository with implementations of various programming proble
 | [0054-spiral-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BhanuSri7997/S2H/tree/master/0283-move-zeroes) |
+| [0396-rotate-function](https://github.com/BhanuSri7997/S2H/tree/master/0396-rotate-function) |
 | [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/BhanuSri7997/S2H/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BhanuSri7997/S2H/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -49,6 +50,7 @@ Technical practice repository with implementations of various programming proble
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
+| [0396-rotate-function](https://github.com/BhanuSri7997/S2H/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/BhanuSri7997/S2H/tree/master/1622-fancy-sequence) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BhanuSri7997/S2H/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/BhanuSri7997/S2H/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -159,6 +161,7 @@ Technical practice repository with implementations of various programming proble
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/BhanuSri7997/S2H/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/BhanuSri7997/S2H/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/BhanuSri7997/S2H/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/BhanuSri7997/S2H/tree/master/2463-minimum-total-distance-traveled) |
