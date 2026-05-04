@@ -6,6 +6,7 @@ Technical practice repository with implementations of various programming proble
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/BhanuSri7997/S2H/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BhanuSri7997/S2H/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ Technical practice repository with implementations of various programming proble
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/BhanuSri7997/S2H/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/BhanuSri7997/S2H/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/BhanuSri7997/S2H/tree/master/0788-rotated-digits) |
@@ -87,6 +89,7 @@ Technical practice repository with implementations of various programming proble
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/BhanuSri7997/S2H/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/BhanuSri7997/S2H/tree/master/0867-transpose-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BhanuSri7997/S2H/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
