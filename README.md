@@ -63,6 +63,7 @@ Technical practice repository with implementations of various programming proble
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/BhanuSri7997/S2H/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BhanuSri7997/S2H/tree/master/0283-move-zeroes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/BhanuSri7997/S2H/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -242,4 +243,8 @@ Technical practice repository with implementations of various programming proble
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/BhanuSri7997/S2H/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/BhanuSri7997/S2H/tree/master/1559-detect-cycles-in-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/BhanuSri7997/S2H/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
