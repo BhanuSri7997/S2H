@@ -20,6 +20,7 @@ Technical practice repository with implementations of various programming proble
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhanuSri7997/S2H/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/BhanuSri7997/S2H/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/BhanuSri7997/S2H/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BhanuSri7997/S2H/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BhanuSri7997/S2H/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/BhanuSri7997/S2H/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -67,6 +68,7 @@ Technical practice repository with implementations of various programming proble
 | [0189-rotate-array](https://github.com/BhanuSri7997/S2H/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BhanuSri7997/S2H/tree/master/0283-move-zeroes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/BhanuSri7997/S2H/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/BhanuSri7997/S2H/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/BhanuSri7997/S2H/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -97,6 +99,7 @@ Technical practice repository with implementations of various programming proble
 | [1559-detect-cycles-in-2d-grid](https://github.com/BhanuSri7997/S2H/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/BhanuSri7997/S2H/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/BhanuSri7997/S2H/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/BhanuSri7997/S2H/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BhanuSri7997/S2H/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/BhanuSri7997/S2H/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/BhanuSri7997/S2H/tree/master/2573-find-the-string-with-lcp) |
